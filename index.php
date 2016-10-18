@@ -1,5 +1,5 @@
 <?php
 
-echo "hello PHP!";
+echo "hello MoPaaS V3!";
 
 ?>
