@@ -1,5 +1,5 @@
 <?php
 
-echo "hello cmcc-zj";
+echo "hello H3C ";
 
 ?>
