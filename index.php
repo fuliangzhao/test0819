@@ -1,5 +1,5 @@
 <?php
 
-echo "welcome to DELL !";
+echo "hello world !";
 
 ?>
