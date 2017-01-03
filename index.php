@@ -1,5 +1,5 @@
 <?php
 
-echo "hello MoPaaS !";
+echo "hello iCenter !";
 
 ?>
