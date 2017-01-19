@@ -1,5 +1,5 @@
 <?php
 
-echo "hello iCenter !";
+echo "hello CASI !";
 
 ?>
